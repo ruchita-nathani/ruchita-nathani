@@ -1,0 +1,19 @@
+{
+    "education":[
+        {
+            "title": "2023 - Present",
+            "cardTitle": "Masters's in Artificial Intelligence",
+            "cardSubtitle":"Friedrich-Alexander-Universität Erlangen-Nürnberg, Germany"
+        },
+        {
+            "title": "2016 - 2020",
+            "cardTitle": "B.E in Information and Communication Technology",
+            "cardSubtitle":"Gujarat Technological University, India"
+        },
+        {
+            "title": "2014 - 2016",
+            "cardTitle": "High Secondary School",
+            "cardSubtitle":"Gujarat Higher Secondary Education Board, India"
+        }
+    ]
+}

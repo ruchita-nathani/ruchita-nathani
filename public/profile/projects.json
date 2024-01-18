@@ -1,0 +1,62 @@
+{
+    "projects" : [
+        {
+            "title": "Slideteam an E-commerce Web Application",
+            "bodyText": " - Web application for downloading predesigned PowerPoint templates, ppt slides, ppt themes, and many more. \n - It also contains blogs and ebooks.",
+            "links": [
+                {
+                    "text": "Live",
+                    "href": "https://www.slideteam.net/"
+                }
+            ],
+            "tags" : [
+                "PHP",
+                "Magento",
+                "Git",
+                "MGT",
+                "Stripe",
+                "PayPal",
+                "zoho"
+            ]
+        },
+        {
+            "title": "Entrepot - A Warehouse Management Application",
+            "bodyText": "- Make it easy to maintain inventory data and build a maintainable supply chain. \n - It is a highly scalable for tracking inventory levels, orders, stocks, and deliveries and notifying respective persons and groups of persons of the same",
+            "tags" : [
+                "Python",
+                "Flask",
+                "AWS",
+                "Git",
+                "Stripe"
+            ]
+        },
+        {
+            "title": "Expense Management",
+            "bodyText": "- User-friendly and efficient Expense Management application using React.\n - Effortlessly add, manage, and track their expenses while providing a clean and responsive user interface.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/ruchita-nathani/expense-managment"
+                }
+            ],
+            "tags" : [
+                "React",
+                "JavaScript",
+                "HTML",
+                "CSS"
+            ]
+        },
+        {
+            "title": "Sales Lead Qualifier",
+            "bodyText": "- Leveraging external data sources to augment historical customer data and recent lead data \n - Providing valuable insights that can help optimize marketing strategies and drive business growth.",
+            "tags" : [
+                "Python",
+                "AWS",
+                "Docker",
+                "Google API",
+                "OPENAI",
+                "Git"
+            ]
+        }
+    ]
+}

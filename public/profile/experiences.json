@@ -1,0 +1,30 @@
+{
+    "experiences": [
+        {
+            "title": "Software Engineer",
+            "subtitle": "Sparsh Technologies",
+            "workType": "Full Time",
+            "workDescription": [
+                "Collaborated with cross-functional teams to design and implement software solutions",
+                "Involved in the complete software development process, from gathering requirements to testing and deployment",
+                "Slideteam an E-commerce Web Application",
+                "Centralized Workforce Management System",
+                "ClientDataHub: Customizable User Data Management System"
+            ],
+            "dateText": "09/2020 – 09/2022"
+        },
+        {
+            "title": "Software Development Intern",
+            "subtitle": "Sparsh Technologies",
+            "workType": "Internship",
+            "workDescription": [
+                "Acquired practical expertise in coding, testing, and debugging software",
+                "Collaborate with team members to contribute to software projects",
+                "learning programming languages, development tools, and best practices, while actively engaging in real-world development projects",
+                "Entrepot - A Warehouse Management Application",
+                "Medical Volunteer Dashboard"
+            ],
+            "dateText": "01/2020 – 08/2020"
+        }
+    ]
+}

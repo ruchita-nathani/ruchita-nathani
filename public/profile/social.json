@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/ruchita-nathani/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/ruchita-nathani"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:ruchita.j.nathani@gmail.com"
+        }
+    ]
+}
