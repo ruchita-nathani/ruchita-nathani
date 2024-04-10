@@ -4,6 +4,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername)
 
+<!-- <a href="https://app.daily.dev/ruchitanathani"><img src="https://api.daily.dev/devcards/v2/6Ik8E8yP3iKz8dIjGCQGq.png?type=default&r=yil" width="356" alt="Ruchita Nathani's Dev Card"/></a>
+-->
+
 ## 🚀 About Me
 
 - 🌱 Currently studying Artificial Intelligance at [FAU Erlangen-Nürnberg](https://www.fau.de/).
